@@ -1,0 +1,11 @@
+id = "ai-chat"
+name = "AI Chat"
+icon = "chat-circle-dots"
+size = "wide"
+run = ["python", "main.py"]
+mode = "live"
+page_size = [600, 380]
+hotkey = "ctrl+alt+KeyA"
+description = "Chat with AI from your notch. Use your own API key (OpenAI, Anthropic, Gemini) or a local model (Ollama, LM Studio)."
+author = "you"
+version = "1.3.1"
